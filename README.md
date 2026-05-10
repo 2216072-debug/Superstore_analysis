@@ -95,7 +95,7 @@ Return reason analysis
 Inventory tracking
 🚀 How to Run This Project
 Step 1 — Clone Repository
-git clone https://github.com/2216072/Superstore_Analysis.git
+git clone https://github.com/2216072-debug/Superstore_analysis.git
 Step 2 — Open MySQL / SQL Workbench
 Step 3 — Run SQL Scripts in Order
 Create Database
